@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16819" started-at="2017-09-20T20:12:31Z" finished-at="2017-09-20T20:12:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16819" started-at="2017-09-20T20:12:31Z" finished-at="2017-09-20T20:12:48Z">
+      <class name="com.test.winiumTest.Test1">
+        <test-method status="PASS" signature="myTest1()[pri:0, instance:com.test.winiumTest.Test1@6a4f787b]" name="myTest1" duration-ms="16795" started-at="2017-09-21T01:42:31Z" finished-at="2017-09-21T01:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest1 -->
+      </class> <!-- com.test.winiumTest.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
